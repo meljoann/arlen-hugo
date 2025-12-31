@@ -11,9 +11,6 @@ disableAliases = false
 pagerSize = 10
 path = 'page'
 
-[permalinks]
-pages = ':contentbasename/'
-
 [markup.goldmark.renderer]
   hardWraps = false
   unsafe = true
