@@ -1,0 +1,8 @@
+
+locale = "en_US"
+
+mainSections = ["blog", "work"]
+
+logo = "" # if the value is an empty string, the site title will be shown instead
+faviconsDir = "images/icons/" # with a trailing slash
+blogDir = "posts" 

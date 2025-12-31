@@ -1,0 +1,40 @@
+baseURL = 'https://rdyermusic.com/'
+languageCode = 'en-us'
+title = 'R Dyer'
+
+theme = "newsroom"
+author = "R Dyer"
+canonifyurls = true
+
+[pagination]
+disableAliases = false
+pagerSize = 10
+path = 'page'
+
+[permalinks]
+pages = ':contentbasename/'
+
+[markup.goldmark.renderer]
+  hardWraps = false
+  unsafe = true
+  xhtml = false
+[makup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = true
+  lineNumbersInTable = false
+  noClasses = false
+  tabWidth = 2
+
+[params]
+    custom_css = "css/custom.css"
+    locale = "en_US"
+    mainSections = ["posts"]
+    logo = "img/img1.jpg" # if the value is an empty string, the site title will be shown instead
+    faviconsDir = "images/icons/" # with a trailing slash
+    blogDir = "posts" 
+
+
+
