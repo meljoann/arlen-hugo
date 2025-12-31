@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Dyer</title>
-    <link>http://localhost:1313/</link>
+    <link>https://meljoann.github.io/arlen-hugo/</link>
     <description>Recent content on R Dyer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Dec 2025 14:15:58 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://meljoann.github.io/arlen-hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Always already begun</title>
-      <link>http://localhost:1313/posts/always-already-begun/</link>
+      <link>https://meljoann.github.io/arlen-hugo/posts/always-already-begun/</link>
       <pubDate>Wed, 31 Dec 2025 14:15:58 +0000</pubDate>
-      <guid>http://localhost:1313/posts/always-already-begun/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/always-already-begun.jpg&#34; alt=&#34;A photograph of this text, typewritten, Surrounding it are ink-drawn figures, cut out of paper, held with masking tape.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Starting a blog in the middle of brain fog feels intimidating – I am more aware of the gap than the meaning.&lt;/p&gt;&#xA;&lt;p&gt;Before my first friend died, I made more art than music (pencil to paper is a line uninterruptible, it seemed?) and sharing&lt;/p&gt;&#xA;&lt;p&gt;Both the act of making and the image itself felt like a safer world to the spidery lines of speech, liable to drift&lt;/p&gt;</description>
+      <guid>https://meljoann.github.io/arlen-hugo/posts/always-already-begun/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://meljoann.github.io/arlen-hugo/img/always-already-begun.jpg&#34; alt=&#34;A photograph of this text, typewritten, Surrounding it are ink-drawn figures, cut out of paper, held with masking tape.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Starting a blog in the middle of brain fog feels intimidating – I am more aware of the gap than the meaning.&lt;/p&gt;&#xA;&lt;p&gt;Before my first friend died, I made more art than music (pencil to paper is a line uninterruptible, it seemed?) and sharing&lt;/p&gt;&#xA;&lt;p&gt;Both the act of making and the image itself felt like a safer world to the spidery lines of speech, liable to drift&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://meljoann.github.io/arlen-hugo/pages/about/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://meljoann.github.io/arlen-hugo/pages/about/</guid>
       <description>&lt;p&gt;R.dyer combines anything from found sounds, synth, musical saw, saxophone, nose-flute, folk harp, household objects, and light up shoelaces to create looped performances which move from baroque-pop to mesmerising soundscapes via acapella lullabies and stories about dogs in trainers. A regular performer in their home-town of Brighton, they’ve supported Sarah Angliss, Porridge Radio, Ana da Silva &amp;amp; PHEW!, Alabaster dePlume, Haiku Salut and Richard Dawson, as well being one of three early career artists to be awarded an Emergent Commission by Drake music in 2021.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -28,7 +28,7 @@ path = 'page'
 [params]
     custom_css = "css/custom.css"
     locale = "en_US"
-    mainSections = ["posts"]
+    mainSections = ["posts", "pages"]
     logo = "img/img1.jpg" # if the value is an empty string, the site title will be shown instead
     faviconsDir = "images/icons/" # with a trailing slash
     blogDir = "posts" 

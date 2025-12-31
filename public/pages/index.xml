@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on R Dyer</title>
-    <link>http://localhost:1313/pages/</link>
+    <link>https://meljoann.github.io/arlen-hugo/pages/</link>
     <description>Recent content in Pages on R Dyer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://meljoann.github.io/arlen-hugo/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://meljoann.github.io/arlen-hugo/pages/about/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://meljoann.github.io/arlen-hugo/pages/about/</guid>
       <description>&lt;p&gt;R.dyer combines anything from found sounds, synth, musical saw, saxophone, nose-flute, folk harp, household objects, and light up shoelaces to create looped performances which move from baroque-pop to mesmerising soundscapes via acapella lullabies and stories about dogs in trainers. A regular performer in their home-town of Brighton, they’ve supported Sarah Angliss, Porridge Radio, Ana da Silva &amp;amp; PHEW!, Alabaster dePlume, Haiku Salut and Richard Dawson, as well being one of three early career artists to be awarded an Emergent Commission by Drake music in 2021.&lt;/p&gt;</description>
     </item>
   </channel>
