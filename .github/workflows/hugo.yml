@@ -27,7 +27,7 @@ defaults:
     shell: bash
 
 jobs:
-  # Build job
+  # Build jobs
   build:
     runs-on: ubuntu-latest
     env:
