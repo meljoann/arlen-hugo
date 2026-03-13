@@ -4,7 +4,8 @@
   "description": "A starter for TinaCMS with Hugo",
   "main": "index.js",
 "scripts": {
-  "tinacms": "tinacms",
+  "@tinacms/cli": "@tinacms/cli@latest",
+  "tinacms": "tinacms@latest",
   "dev": "tinacms dev -c \"next dev\"",
   "build": "tinacms build && next build",
   "start": "tinacms build && next start",
