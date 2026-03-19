@@ -5,7 +5,7 @@ date = "2025-12-31"
 # url = "/about/" # override permalinks section of hugo.toml file
 +++
 
-R.dyer combines anything from found sounds, synth, musical saw, saxophone, nose-flute, folk harp, household objects, and light up shoelaces to create looped performances which move from baroque-pop to mesmerising soundscapes via acapella lullabies and stories about dogs in trainers. A regular performer in their home-town of Brighton, they’ve supported Sarah Angliss, Porridge Radio, Ana da Silva & PHEW!, Alabaster dePlume, Haiku Salut and Richard Dawson, as well being one of three early career artists to be awarded an Emergent Commission by Drake music in 2021. 
+R.dyer combines anything from found sounds, synth, musical saw, saxophone, nose-flute, folk harp, household objects, and light up shoelaces to create looped performances which move from baroque-pop to mesmerising soundscapes via acapella lullabies and stories about dogs in trainers. A regular performer in their home-town of Brighton, they’ve supported Sarah Angliss, Porridge Radio, Ana da Silva & PHEW!, Alabaster dePlume, Haiku Salut and Richard Dawson, as well being one of three early career artists to be awarded an Emergent Commission by Drake music in 2021.
 
 ## Releases
 
