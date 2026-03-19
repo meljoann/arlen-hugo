@@ -40,7 +40,7 @@ jobs:
       - name: Clear Hugo Cache
         run: hugo mod clean
       - name: Install Dart Sass
-        run: sudo snap install dart-sass
+        run: npm install dart-sass
       - name: Checkout
         uses: actions/checkout@v4
         with:
