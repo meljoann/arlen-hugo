@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on R Dyer</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://rdyermusic.com/posts/</link>
     <description>Recent content in Posts on R Dyer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Dec 2025 14:15:58 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rdyermusic.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Always already begun</title>
-      <link>http://localhost:1313/posts/always-already-begun/</link>
+      <link>https://rdyermusic.com/posts/always-already-begun/</link>
       <pubDate>Wed, 31 Dec 2025 14:15:58 +0000</pubDate>
-      <guid>http://localhost:1313/posts/always-already-begun/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/always-already-begun.jpg&#34; alt=&#34;A photograph of this text, typewritten, Surrounding it are ink-drawn figures, cut out of paper, held with masking tape.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Starting a blog in the middle of brain fog feels intimidating – I am more aware of the gap than the meaning.&lt;/p&gt;&#xA;&lt;p&gt;Before my first friend died, I made more art than music (pencil to paper is a line uninterruptible, it seemed?) and sharing&lt;/p&gt;&#xA;&lt;p&gt;Both the act of making and the image itself felt like a safer world to the spidery lines of speech, liable to drift&lt;/p&gt;</description>
+      <guid>https://rdyermusic.com/posts/always-already-begun/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://rdyermusic.com/img/always-already-begun.jpg&#34; alt=&#34;A photograph of this text, typewritten, Surrounding it are ink-drawn figures, cut out of paper, held with masking tape.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Starting a blog in the middle of brain fog feels intimidating – I am more aware of the gap than the meaning.&lt;/p&gt;&#xA;&lt;p&gt;Before my first friend died, I made more art than music (pencil to paper is a line uninterruptible, it seemed?) and sharing&lt;/p&gt;&#xA;&lt;p&gt;Both the act of making and the image itself felt like a safer world to the spidery lines of speech, liable to drift&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello, World!</title>
+      <link>https://rdyermusic.com/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rdyermusic.com/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis.&lt;/p&gt;&#xA;&lt;p&gt;Suspendisse facilisis, mi ac scelerisque interdum, ligula ex imperdiet felis, a posuere eros justo nec sem. Nullam laoreet accumsan metus, sit amet tincidunt orci egestas nec. Pellentesque ut aliquet ante, at tristique nunc. Donec non massa nibh. Ut posuere lacus non aliquam laoreet. Fusce pharetra ligula a felis porttitor, at mollis ipsum maximus. Donec quam tortor, vehicula a magna sit amet, tincidunt dictum enim. In hac habitasse platea dictumst. Mauris sit amet ornare ligula, blandit consequat risus. Duis malesuada pellentesque lectus, non feugiat turpis eleifend a. Nullam tempus ante et diam pretium, ac faucibus ligula interdum.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
