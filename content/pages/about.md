@@ -1,5 +1,6 @@
 +++
 title = "About"
+menus = 'main'
 date = "2025-12-31"
 # image = "/images/street.jpg"
 # url = "/about/" # override permalinks section of hugo.toml file
