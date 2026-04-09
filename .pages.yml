@@ -1,11 +1,20 @@
-media: media
+media: content/img
 content:
   - name: pages
     label: Pages
     type: collection
-    path: docs
+    path: content/pages
     fields:
       - name: title
         type: string
       - name: body
         type: rich-text
+  - name: posts
+  label: Posts
+  type: collection
+  path: content/posts
+  fields:
+    - name: title
+      type: string
+    - name: body
+      type: rich-text
