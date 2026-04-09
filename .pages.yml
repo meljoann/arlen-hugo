@@ -15,6 +15,6 @@ content:
     path: content/posts
     fields:
       - name: title
-        type: string
+        type: toml
       - name: body
         type: rich-text
