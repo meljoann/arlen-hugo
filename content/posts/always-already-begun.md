@@ -1,5 +1,5 @@
 +++
-date = '2025-12-31T14:15:58Z'
+date = '2025-12-31T14:15:59Z'
 draft = false
 title = 'Always already begun'
 tags = ["blog"]
