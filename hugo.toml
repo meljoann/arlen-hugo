@@ -2,7 +2,7 @@ baseURL = 'https://arlen-hugo.netlify.app/'
 languageCode = 'en-us'
 title = 'R Dyer'
 
-theme = "newsroom"
+theme = ["github.com/onweru/newsroom"]
 author = "R Dyer"
 canonifyurls = true
 
@@ -32,5 +32,8 @@ path = 'page'
     logo = "img/img1.jpg" # if the value is an empty string, the site title will be shown instead
     faviconsDir = "images/icons/" # with a trailing slash
     blogDir = "posts" 
+
+[permalinks]
+    pages = ':contentbasename/'
 
 
