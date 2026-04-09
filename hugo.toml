@@ -2,7 +2,7 @@ baseURL = 'https://rdyermusic.com/'
 languageCode = 'en-us'
 title = 'R Dyer'
 
-theme = "newsroom"
+theme = "["github.com/onweru/"newsroom"]
 author = "R Dyer"
 canonifyurls = true
 
