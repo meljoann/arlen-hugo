@@ -1,82 +1,28 @@
 backend:
   name: git-gateway
-  branch: main
-publish_mode: editorial_workflow
+  branch: main # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'post'
-    label: 'Post'
+  - name: 'blog'
+    label: 'Blog'
     folder: 'content/posts'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
     fields:
-      - label: 'Draft'
-        name: 'draft'
-        widget: 'boolean'
-        default: false
-      - label: 'Title'
-        name: 'title'
-        widget: 'string'
-      - label: 'Publish Date'
-        name: 'date'
-        widget: 'datetime'
-      - label: 'Last Modified Date'
-        name: 'lastmod'
-        widget: 'datetime'
-        required: false
-      - label: 'Author'
-        name: 'author'
-        widget: 'string'
-        required: false
-      - label: 'Author Link'
-        name: 'authorlink'
-        widget: 'string'
-        required: false
-      - label: 'Cover'
-        name: 'cover'
-        widget: 'image'
-        required: false
-      - label: 'Categories'
-        name: 'categories'
-        widget: 'list'
-        summary: '{{fields.category}}'
-        field:
-          label: 'Category'
-          name: 'category'
-          widget: 'string'
-      - label: 'Tags'
-        name: 'tags'
-        widget: 'list'
-        summary: '{{fields.tag}}'
-        field:
-          label: 'Tag'
-          name: 'tag'
-          widget: 'string'
-      - label: 'Disable Last Modified Date'
-        name: 'nolastmod'
-        widget: 'boolean'
-        default: false
-
-      - label: 'Body'
-        name: 'body'
-        widget: 'markdown'
-  - name: 'about'
-    label: 'About'
-    folder: 'content/about'
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content/pages'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-      - label: 'Draft'
-        name: 'draft'
-        widget: 'boolean'
-        default: false
-      - label: 'Title'
-        name: 'title'
-        widget: 'string'
-      - label: 'Publish Date'
-        name: 'date'
-        widget: 'datetime'
-      - label: 'Body'
-        name: 'body'
-        widget: 'markdown'
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
